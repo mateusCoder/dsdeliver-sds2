@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     letterSpacing: -0.24,
     color: '#FFF',
     marginLeft: 15,
-    fontFamily: 'OpenSans_700bold',
+    fontFamily: 'OpenSans_700Bold',
   }
 });
 
